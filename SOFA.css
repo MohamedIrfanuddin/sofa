@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+body{
+    background-color: brown;
+    
+    
+}
+nav{
+    background-color: white;
+    margin-right: 30px;
+    margin-left: 30px;
+    height: 1600px;
+    
+}
+    ul{
+    list-style: none;   
+    
+    color: rgb(212, 167, 76);
+    
+    margin-left: 100px;
+    font-size: x-large;
+    
+}
+     li{background-color: darkturquoise;
+        float: left;
+        margin-right: 50px;
+     }
+     .div1{
+         font-size: 50px;
+         color: chartreuse;
+     }
+     .div2{
+         font-size:50px;
+         color: darkolivegreen;
+
+ 
+ }
+    .container1{
+        width:30%;
+        background-color: chartreuse;
+        margin-left: 25px;
+        float: left;
+        
+        
+    }
+    .container1 p{
+       background-color: chocolate;
+       padding-bottom: 15px;
+       border-bottom-right-radius: 60px ;
+       text-align: center;
+       
+    }
+    
+    
+    
+    .container1 h3{
+        text-align: center;
+        
+    }
+
+     .container2 ul{
+         list-style: disc;
+         
+         color: rgb(10, 10, 10);
+         margin-left: 10px;
+         font-size: x-small;
+     }
+     .container2 ol{
+         list-style: none;
+         font-size: x-small;
+
+     }
+     .container2{
+         width: 32%;
+         margin-left: 10px;
+         float: left;
+     }
+     .container2 li{
+         background-color: white;
+         margin-bottom: 7px;
+         font-size: larger;
+         
+     }
+     .container2 h4{
+         font-size :18px;
+         
+     }
+     .color{
+         color: rgb(28, 226, 127);
+     }
+     .btn{background-color: indigo;
+         height: 25px;
+         padding: 5px;
+         color: ivory;
+         border-radius:15px ;
+
+         
+     }
+     .no{background-color: greenyellow;
+        color: cornsilk;
+        font-size: 30px;
+        margin-left:90px;
+        width: 60px;
+        padding: 15px;
+        float: left;
+        }
+     .float1{
+            float: left;
+        }
+     .letter{
+         background-color: brown;
+         width: 250px;
+         height: 64px;
+         margin-left: 150px;
+         padding: 1px;
+         text-align: center;
+         
+         
+     }
+    .footer p {
+        margin-top: 100px;
+    }
+         
+     
+     
